@@ -44,7 +44,7 @@ class AlfredItemsList(object):
 def split_symbol(raw_symbol):
     symbol, code, description = raw_symbol.split('\t')[:3]
     return {
-        'arg': symbol,
+        'arg': code,
         'title': symbol,
         'subtitle': description,
         'uid': code,
