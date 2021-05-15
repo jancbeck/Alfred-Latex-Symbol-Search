@@ -1,0 +1,157 @@
+±	\pm	plus or minus
+∓	\mp	minus or plus
+×	\times	multiply
+÷	\div	divided
+∗	\ast	asterisk
+⋆	\star	 
+†	\dagger	 
+‡	\ddagger	double dagger
+∩	\cap	set intersection
+∪	\cup	set union
+⊎	\uplus	multiset union
+⊓	\sqcap	 
+⊔	\sqcup	 
+⋁	\vee	N-ary logical or
+⋀	\wedge	N-ary logical and
+⋅	\cdot	 
+⋄	\diamond	 
+△	\bigtriangleup	 
+▽	\bigtriangledown	 
+◃	\triangleleft	 
+▹	\triangleright	 
+◯	\bigcirc	 
+•	\bullet	 
+≀	\wr	Wreath product
+⊕	\oplus	 
+⊖	\ominus	 
+⊗	\otimes	 
+⊘	\oslash	 
+⊙	\odot	 
+○	\circ	 
+∖	\setminus	 
+⨿	\amalg	amalgamation
+∠	\angle	angle
+∡	\measuredangle	measured angle
+▵	\triangle	triangle
+□	\square	square
+∣	\mid
+⟨	\langle	 	
+⟩	\rangle
+↑	\uparrow	 	
+↓	\downarrow
+⇑	\Uparrow	 	
+⇓	\Downarrow
+⌈	\lceil	 	
+⌉	\rceil
+⌊	\lfloor	 	
+⌋	\rfloor
+⌜	\ulcorner	 	
+⌝	\urcorner
+⌞	\llcorner	 	
+⌟	\lrcorner
+<	<	less than
+>	>	greater than
+=	=	equal to
+≮	\nless	not less than
+≯	\ngtr	not greater than
+≠	\neq \ne	not equal to
+≤	\leq \leqslant	less than or equal to
+≥	\geq \geqslant	greater than or equal to
+≰	\nleq \nleqslant	neither less than nor equal to
+≱	\ngeq \ngeqslant	neither greater than nor equal to
+≪	\ll	much less than
+≫	\gg	much greater than
+⋘	\lll	very much less than
+⋙	\ggg	very much greater than
+∥	\parallel	parallel to
+∦	\nparallel	not parallel to
+≐	\doteq	approaches the limit
+≡	\equiv	equivalent to
+≈	\approx	approximately equal to
+≅	\cong	congruent to or approximately equal to
+≃	\simeq	asymptotically equal to
+∼	\sim	similar to
+⊂	\subset	subset of
+⊃	\supset	superset of
+⊄	\not\subset	not a subset of
+⊅	\not\supset	not a superset of
+⊆	\subseteq	subset of or equal to
+⊇	\supseteq	superset of or equal to
+⊈	\nsubseteq	neither a subset of nor equal to
+⊉	\nsupseteq	neither a superset of nor equal to
+⊏	\sqsubset	square image of
+⊐	\sqsupset	square original of
+⊑	\sqsubseteq	square image of or equal to
+⊒	\sqsupseteq	square original of or equal to
+≺	\prec	precedes
+≻	\succ	succeeds
+⊀	\nprec	not precede
+⊁	\nsucc	not succeed
+≼	\preceq	precedes or equal to
+≽	\succeq	succeeds or equal to
+⋠	\npreceq	not precede or equal
+⋡	\nsucceq	not succeed or equal
+∝	\propto	proportional to
+≍	\asymp	equivalent to
+⋈	\bowtie	bowtie
+⊢	\vdash	 
+⊣	\dashv	 
+∈	\in	element of
+∋	\ni	contains as member
+∉	\notin	not an element of
+⌣	\smile	 
+⌢	\frown	 
+⊧	\models	 
+⊥	\perp	 
+∣	\mid	 
+∵	\because	 
+∴	\therefore	 
+∅	\emptyset \varnothing	empty set
+ℕ	\mathbb{N}	set of natural numbers
+ℤ	\mathbb{Z}	set of integers
+ℚ	\mathbb{Q}	set of rational numbers
+ℝ	\mathbb{R}	set of real numbers
+ℂ	\mathbb{C}	set of complex numbers
+𝔸	\mathbb{A}	set of algebraic numbers
+ℍ	\mathbb{H}	set of quaternions
+𝕆	\mathbb{O}	set of octonions
+𝕊	\mathbb{S}	set of sedenions
+∈	\in	element of
+∋	\ni	contains as member
+∉	\notin	not an element of
+⊂	\subset	subset of
+⊃	\supset	superset of
+⊄	\not\subset	not a subset of
+⊅	\not\supset	not a superset of
+⊆	\subseteq	subset of or equal to
+⊇	\supseteq	superset of or equal to
+⊈	\nsubseteq	neither a subset of nor equal to
+⊉	\nsupseteq	neither a superset of nor equal to
+∩	\cap	set intersection
+∪	\cup	set union
+∖	\setminus	set difference
+∃	\exists	there exists
+∄	\nexists	there does not exist
+∀	\forall	for all
+¬	\neg	logical not
+∧	\land	logical and
+∨	\lor	logical or
+←	\leftarrow	 
+→	\rightarrow	 
+↔	\leftrightarrow	 
+↦	\mapsto	 
+⟼	\longmapsto	 
+⟸	\Longleftarrow	 
+⇐	\Leftarrow	 
+⟹	\Longrightarrow	 
+⇒	\Rightarrow	 
+⟺	\iff	 
+⇔	\Leftrightarrow	 
+⊤	\top	 
+⊥	\bot	 
+↼	\leftharpoonup	 
+⇀	\rightharpoonup	 
+↽	\leftharpoondown	 
+⇁	\rightharpoondown	 
+⇋	\leftrightharpoons	 
+⇌	\rightleftharpoons	 
